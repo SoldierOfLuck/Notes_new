@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DwarfPorter/GeekBrains/AndroidBase-2021-11-02/Course/Lesson-10/SocialNetwork/app/src/main/res/drawable/separator.xml" value="0.23072916666666668" />
+        <entry key="..\:/DwarfPorter/GeekBrains/AndroidBase-2021-11-02/Course/Lesson-10/SocialNetwork/app/src/main/res/layout/activity_main.xml" value="0.2791666666666667" />
+        <entry key="..\:/DwarfPorter/GeekBrains/AndroidBase-2021-11-02/Course/Lesson-10/SocialNetwork/app/src/main/res/layout/content_main.xml" value="0.29322916666666665" />
+        <entry key="..\:/DwarfPorter/GeekBrains/AndroidBase-2021-11-02/Course/Lesson-10/SocialNetwork/app/src/main/res/layout/fragment_socialnetwork.xml" value="0.29322916666666665" />
+        <entry key="..\:/DwarfPorter/GeekBrains/AndroidBase-2021-11-02/Course/Lesson-10/SocialNetwork/app/src/main/res/layout/item.xml" value="0.29322916666666665" />
+        <entry key="..\:/DwarfPorter/GeekBrains/AndroidBase-2021-11-02/Course/Lesson-11/SocialNetwork/app/src/main/res/layout/fragment_card.xml" value="0.33" />
+        <entry key="..\:/DwarfPorter/GeekBrains/AndroidBase-2021-11-02/Course/Lesson-11/SocialNetwork/app/src/main/res/layout/item.xml" value="0.29322916666666665" />
+        <entry key="..\:/DwarfPorter/GeekBrains/AndroidBase-2021-11-02/Course/Lesson-11/SocialNetwork/app/src/main/res/menu/card_menu.xml" value="0.22864583333333333" />
+        <entry key="..\:/DwarfPorter/GeekBrains/AndroidBase-2021-11-02/Course/Lesson-11/SocialNetwork/app/src/main/res/menu/cards_menu.xml" value="0.29322916666666665" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/drawable/separator.xml" value="0.20555555555555555" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/layout/content_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/layout/custom_alert_dialog.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/layout/fragment_app_data.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/layout/fragment_card.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/layout/fragment_note.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/layout/fragment_settings.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/layout/fragment_socialnetwork.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/layout/item.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/menu/card_menu.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/menu/cards_menu.xml" value="0.22552083333333334" />
+        <entry key="..\:/GeekBrains/Android/SocialNetwork_20211203-master/app/src/main/res/menu/exit_menu.xml" value="0.22552083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

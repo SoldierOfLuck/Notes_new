@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="title1">Заметка 1</string>
+    <string name="title2">Заметка 2</string>
+    <string name="title3">Заметка 3</string>
+    <string name="title4">Заметка 4</string>
+    <string name="title5">Заметка 5</string>
+    <string name="description1">Описание заметки 1</string>
+    <string name="description2">Описание заметки 2</string>
+    <string name="description3">Описание заметки 3</string>
+    <string name="description4">Описание заметки 4</string>
+    <string name="description5">Описание заметки 5</string>
+    <string name="add">Добавить</string>
+    <string name="action_clear">Очистить</string>
+    <string name="update">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="settings">Настройки</string>
+    <string name="data">Сведения</string>
+    <string name="back">Назад</string>
+    <string name="regular_style">Обычный стиль</string>
+    <string name="light_style">Яркий стиль</string>
+    <string name="dark_style">Темный стиль</string>
+    <string name="app_data">Сведения о приложении</string>
+    <string name="Complete">Завершить</string>
+    <string name="exit">Выход</string>
+    <string name="Alert">Предупреждение</string>
+    <string name="AlertText">Вы уверены, что хотите закрыть приложение</string>
+</resources>
